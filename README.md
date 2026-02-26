@@ -14,8 +14,6 @@ A personal Neovim configuration built for productivity, development, and full co
 - 🔥 LSP support
 - 🧭 Auto completion
 - 🗂 File explorer (Neo-tree)
-- 💻 Terminal integration
-- 🔄 Git integration
 - 🛠 Custom keymaps
 - 🎮 Vim practice with vim-be-good
 
