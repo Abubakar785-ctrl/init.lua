@@ -20,6 +20,7 @@ A personal Neovim configuration built for productivity, development, and full co
 ## Working on
 - Termainal integration
 - git integration
+and more...
 
 ---
 
