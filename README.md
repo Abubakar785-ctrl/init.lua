@@ -17,6 +17,10 @@ A personal Neovim configuration built for productivity, development, and full co
 - 🛠 Custom keymaps
 - 🎮 Vim practice with vim-be-good
 
+## Working on
+- Termainal integration
+- git integration
+
 ---
 
 ## 📦 Installation
